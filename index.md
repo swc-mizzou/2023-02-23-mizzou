@@ -218,7 +218,7 @@ special instructions.
 
 <p id="registration">
   <strong>Registration</strong>
-  Pre-registration is required. Please register here: https://libcal.missouri.edu/calendar/workshops/swc2023-02-23
+  Pre-registration is required. Please register here: <a href="https://libcal.missouri.edu/calendar/workshops/swc2023-02-23">https://libcal.missouri.edu/calendar/workshops/swc2023-02-23</a>
 </p>
 {% comment %}
 CONTACT EMAIL ADDRESS
